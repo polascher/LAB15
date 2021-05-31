@@ -1,0 +1,6 @@
+/Users/a1/Projects/LAB15/LAB15/bin/Debug/LAB15.exe
+/Users/a1/Projects/LAB15/LAB15/bin/Debug/LAB15.pdb
+/Users/a1/Projects/LAB15/LAB15/obj/Debug/LAB15.csprojAssemblyReference.cache
+/Users/a1/Projects/LAB15/LAB15/obj/Debug/LAB15.csproj.CoreCompileInputs.cache
+/Users/a1/Projects/LAB15/LAB15/obj/Debug/LAB15.exe
+/Users/a1/Projects/LAB15/LAB15/obj/Debug/LAB15.pdb
